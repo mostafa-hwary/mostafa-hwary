@@ -1,19 +1,18 @@
 	
-<h1 align="center">Hi , I'm Menna Zakaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm MMostafa Hwary <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 	
 	
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Back+end+Developer;Competitive+Programmer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;UI+UX+Developer;"></a>
 </p>
 
 - 🔭 I am a Student at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
 
 - 🌱 I’m currently learning **Computer Science**
   
-- 👨‍💻 I am Back-end devolper (NodeJs)
+- 👨‍💻 I am UI UX Devbelober
 
-- 👨‍💻 I am a competitive programmer at **Codeforces, Atcoder, Leetcode, Codechef.**
 
-- 📫 How to reach me **mennazakaria2003@gmail.com**
+- 📫 How to reach me **mostafahwary156@gmail.com**
 
 
 
@@ -25,28 +24,12 @@
 
 ## 👉 How to reach me 
 <p align="center">
-<a href="https://www.linkedin.com/in/menna-zakaria-476220239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/menna-zakaria-476220239/" height="80" width="60"    /      ></a>        <a href="https://www.facebook.com/mennazakaria0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Menna Zakaria" height="80" width="60" />         </a>
-<a href="https://twitter.com/MennaZekooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MennaZekooo" height="80" width="60" /></a>
-<a href="https://www.instagram.com/menna_zakaria1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="menna_zakaria1" height="80" width="60" /     ></a>
+<a href="https://www.linkedin.com/in/mostafa-elhwary-aa9b24253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafa-elhwary-aa9b24253/" height="80" width="60"    /      ></a>        <a href="hhttps://www.facebook.com/mostafa.elhwary.739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mostafa ElHwary" height="80" width="60" />         </a>
+<a href="https://www.instagram.com/mustafa.hwary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mostafa ElHwary" height="80" width="60" /     ></a>
 
 </p>
 <hr>
 
-## 👉Competitive Programming Profiles 
-<p align="center">
-<a href="https://www.hackerrank.com/mennazakaria2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mennazakaria" height="80" width="60" />         </a>  
-&emsp; 
-<a href="https://codeforces.com/profile/mennazakaria2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Menna-Zakaria" height="80" width="60" />    </a>
-&emsp; 
- <a href="https://leetcode.com/mennazakaria/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mennazakaria" height="80" width="60" />   </a>
- &emsp; 
- <a href="https://atcoder.jp/users/menna_zakaria"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=7%/></a>
- &emsp; 
-<a href="https://www.codechef.com/users/mennazakaria"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
-&emsp; 
-<a href="https://www.codingame.com/profile/99eab5b12769f72de7756b9eb5416d011220715" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width=20%>	&emsp; 
-</p>
-<hr>
 
 
 ## 👉 Programming languages
@@ -59,9 +42,9 @@
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="js" width="60" height="60"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
- <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/> </a>
+
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/nodejs/images/eca9ff97-5734-46c4-b8a1-621819eaeaa9.svg" alt="nodeJs" width="130" height="80"/> </a> 
+
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/> </a>
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> 
 
@@ -75,7 +58,7 @@
 
 
 🔥 Streak Status
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MennaAllahZakaria&theme=algolia" alt="MennaAllahZakaria" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-hwary&theme=algolia" alt="mostafa-hwary" /></p>
 
 
 
@@ -83,10 +66,10 @@
   <summary><b>💻 GitHub Profile Status</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MennaAllahZakaria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MennaAllahZakaria&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mostafa-hwary's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mostafa-hwary&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MennaAllahZakaria&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="MennaAllahZakaria" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-hwary&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mostafa-hwary" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
